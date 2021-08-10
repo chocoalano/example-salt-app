@@ -64,10 +64,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## install
 
-- **[composer install]
-- **[php artisan migrate]
-- **[php artisan serve]
-- **[npm install && npm run dev]
-- **[application started on link address http://localhost:8000]
-- **[Finish]
+- composer install
+- php artisan migrate
+- php artisan serve
+- npm install && npm run dev
+- application started on link address http://localhost:8000
+- Finish
 
